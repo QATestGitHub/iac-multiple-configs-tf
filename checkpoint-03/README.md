@@ -1,6 +1,6 @@
 # Checkpoint 03
 
-Realizar checkpoint 03, porém utilizando a estrutura de módulos.
+Realizar checkpoint 02, porém utilizando a estrutura de módulos.
   
   
 # Organização do repositório
