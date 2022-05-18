@@ -12,5 +12,17 @@ Dentro dela organize os materais por nome completo do aluno. Por exemplo:
 ```
 ├── checkpoint-03
 │   └── Renato Fernandes
-│       └── template.tf
+│       └── main.tf
+│       └── <module_01>
+│           └── main.tf
+│           └── vars.tf
+│           └── output.tf
+│       └── <module_02>
+│           └── main.tf
+│           └── vars.tf
+│           └── output.tf
+│       └── <module_n>
+│           └── main.tf
+│           └── vars.tf
+│           └── output.tf
 ``` 
